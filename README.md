@@ -1,4 +1,4 @@
-ASankaran.github.io
+My Website
 ===================
 
-GitHub Pages Site
+Website code hosted on GitHub
