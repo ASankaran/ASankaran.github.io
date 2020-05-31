@@ -37,7 +37,7 @@ function App() {
             <Grid item xs={12}>
               <Container>
                 <Typography variant="body1" align="center">
-                  My interests lie primarly in designing and building high performance software, distributed systems, networking, and architecture.
+                  My interests lie primarily in designing and building high performance software, distributed systems, networking, and architecture.
                 </Typography>
               </Container>
             </Grid>
