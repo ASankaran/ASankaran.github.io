@@ -28,9 +28,9 @@ function App() {
             <Grid item xs={12}>
               <Container>
                 <Typography variant="body1" align="center">
-                  Hi, I'm Arnav a recent graduate of the University of Illinois at Urbana-Champaign.
-                  I will be joining Hudson River Trading in August as a Core Developer.
-                  I have previously worked at Facebook, Uber, and Ocient as a Software Engineering Intern.
+                  Hi, I'm Arnav a recent graduate of the University of Illinois at Urbana-Champaign
+                  and I will be joining Hudson River Trading in August as a Core Developer.
+                  Previously I have worked at Facebook, Uber, and Ocient as a Software Engineering Intern.
                 </Typography>
               </Container>
             </Grid>
