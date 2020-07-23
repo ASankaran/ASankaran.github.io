@@ -45,6 +45,7 @@ function App() {
               <Container>
                 <Typography variant="body1" align="center">
                   You can learn more about my work experience the projects I have built over the years through my LinkedIn and GitHub profiles.
+                  Send me an email at arnavsankaran@gmail.com if you'd like to chat.
                 </Typography>
               </Container>
             </Grid>
